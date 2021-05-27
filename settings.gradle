@@ -1,0 +1,2 @@
+rootProject.name = "Demo Phone 4 Elderly"
+include ':app'
